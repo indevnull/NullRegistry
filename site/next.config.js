@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Null Registry',
+    description: 'My personal Kasm registry.',
+    icon: 'https://gcdn.thunderstore.io/live/repository/icons/DevNull-DevNullCardPack-0.9.0.png.256x256_q95.png',
+    listUrl: 'https://github.com/indevnull/NullRegistry/',
+    contactUrl: 'https://github.com/indevnull/NullRegistry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
