@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'Null Registry',
+    name: "Null's Registry",
     description: 'My personal Kasm registry.',
     icon: 'https://gcdn.thunderstore.io/live/repository/icons/DevNull-DevNullCardPack-0.9.0.png.256x256_q95.png',
     listUrl: 'https://github.com/indevnull/NullRegistry/',
